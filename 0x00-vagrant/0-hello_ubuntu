@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-uname prints just the kernel name
-=======
 uname prints just the Linux kernel name
->>>>>>> 0291edb (My second commit)
+
